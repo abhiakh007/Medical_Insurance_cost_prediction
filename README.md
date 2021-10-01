@@ -1,4 +1,4 @@
-# Insurance-Claim-Prediction
+# Medical-Insurance-Claim-Prediction
 A Predictive model based on linear regression technique to forecast the Medical Insurance Cost of a person claimed for an Insurance Company.
 
 ## age :
